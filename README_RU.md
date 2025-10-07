@@ -51,7 +51,7 @@
 
 ```bash
 # Клонирование
-git clone https://github.com/yourusername/screencapture.git
+git clone https://github.com/sile350/QtScreenCapture.git
 cd screencapture
 
 # Сборка с CMake
