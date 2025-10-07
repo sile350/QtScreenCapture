@@ -54,7 +54,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/screencapture.git
+git clone https://github.com/sile350/QtScreenCapture.git
 cd screencapture
 
 # Create build directory
@@ -77,7 +77,7 @@ screencapture.exe  # Windows
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/screencapture.git
+git clone https://github.com/sile350/QtScreenCapture.git
 cd screencapture
 
 # Configure and build
